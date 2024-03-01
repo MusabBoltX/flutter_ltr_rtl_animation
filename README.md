@@ -1,6 +1,6 @@
-# faker_package
+# Flutter Custom LTR and RTL animation
 
-A new Flutter project.
+https://github.com/MusabBoltX/flutter_ltr_rtl_animation/assets/68772934/c06cccf8-8e77-472e-9a5e-a6d9eab8806f
 
 ## Getting Started
 
